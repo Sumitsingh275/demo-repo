@@ -7,4 +7,4 @@ resources:
       tasks:
         - task_key: my-notebook-task
           notebook_task:
-            notebook_path: ../helloworld.ipynb
+            notebook_path: ../helloworld2.ipynb
